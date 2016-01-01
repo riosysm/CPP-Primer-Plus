@@ -20,3 +20,6 @@
 * The `string` Class and the Standard Template Library
 * Input, Output, and Files
 * Visiting with the New C++ Standard
+
+
+**我会加上我在学习时的问题或者是重点，以便复习
